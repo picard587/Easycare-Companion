@@ -28,3 +28,5 @@ The system is optimized for water efficiency, ensuring effective cleaning while 
 - Voice and App Integration
 Operable via voice commands or a dedicated mobile app, EasyCare-Companion provides convenience and accessibility for all users.
 
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/472392655_655147300201794_4816884370317801167_n.jpg?raw=true)
+
