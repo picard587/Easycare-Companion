@@ -29,4 +29,8 @@ The system is optimized for water efficiency, ensuring effective cleaning while 
 Operable via voice commands or a dedicated mobile app, EasyCare-Companion provides convenience and accessibility for all users.
 
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/472392655_655147300201794_4816884370317801167_n.jpg?raw=true)
-
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/1.jpg?raw=true)
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/2.jpg?raw=true)
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/3.jpg?raw=true)
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/4.jpg?raw=true)
+![demo](https://github.com/picard587/Easycare-Companion/blob/main/5.jpg?raw=true)
