@@ -1,4 +1,4 @@
-# Easycare-Companion
+# Easycare-Companion 
 EasyCare-Companion: Revolutionizing Personal Care for the Elderly and People with Disabilities
 
 EasyCare-Companion is an innovative personal care machine designed to provide comprehensive hygiene assistance for elderly individuals and people with disabilities. By automating essential hygiene tasks, EasyCare-Companion promotes independence, comfort, and dignity, ensuring users receive the care they need without reliance on others.
