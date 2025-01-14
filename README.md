@@ -34,7 +34,7 @@ Operable via voice commands or a dedicated mobile app, EasyCare-Companion provid
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/3.jpg?raw=true)
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/4.jpg?raw=true)
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/5.jpg?raw=true)
-
+# BASIC CODE
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/D1B.png?raw=true)
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/D2.png?raw=true)
 ![demo](https://github.com/picard587/Easycare-Companion/blob/main/D3.png?raw=true)
